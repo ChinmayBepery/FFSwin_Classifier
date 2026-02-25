@@ -1,0 +1,108 @@
+Epoch [1/60] | Loss 0.8141 | TrainAcc 53.04% | ValAcc 20.31% | LR 5.00e-05
+Epoch [2/60] | Loss 0.6434 | TrainAcc 65.77% | ValAcc 9.38% | LR 5.00e-05
+Epoch [3/60] | Loss 0.4279 | TrainAcc 79.03% | ValAcc 81.25% | LR 5.00e-05
+Epoch [4/60] | Loss 0.2867 | TrainAcc 87.48% | ValAcc 87.50% | LR 5.00e-05
+Epoch [5/60] | Loss 0.1967 | TrainAcc 92.02% | ValAcc 84.38% | LR 5.00e-05
+Confusion Matrix (Epoch 5):
+[[ 0  1  3]
+ [ 0  1  4]
+ [ 2  0 53]]
+Epoch [6/60] | Loss 0.1167 | TrainAcc 95.62% | ValAcc 82.81% | LR 5.00e-05
+Epoch [7/60] | Loss 0.1177 | TrainAcc 95.83% | ValAcc 87.50% | LR 5.00e-05
+Epoch [8/60] | Loss 0.0764 | TrainAcc 97.73% | ValAcc 87.50% | LR 5.00e-05
+Epoch [9/60] | Loss 0.0605 | TrainAcc 98.42% | ValAcc 89.06% | LR 5.00e-05
+Epoch [10/60] | Loss 0.0292 | TrainAcc 99.31% | ValAcc 90.62% | LR 5.00e-05
+Confusion Matrix (Epoch 10):
+[[ 1  0  3]
+ [ 0  3  2]
+ [ 1  0 54]]
+Epoch [11/60] | Loss 0.0533 | TrainAcc 98.10% | ValAcc 87.50% | LR 5.00e-05
+Epoch [12/60] | Loss 0.0519 | TrainAcc 98.47% | ValAcc 25.00% | LR 5.00e-05
+Epoch [13/60] | Loss 0.0411 | TrainAcc 98.84% | ValAcc 87.50% | LR 5.00e-05
+Epoch [14/60] | Loss 0.0229 | TrainAcc 99.21% | ValAcc 87.50% | LR 5.00e-05
+Epoch [15/60] | Loss 0.0636 | TrainAcc 97.73% | ValAcc 90.62% | LR 5.00e-05
+Confusion Matrix (Epoch 15):
+[[ 0  1  3]
+ [ 0  3  2]
+ [ 0  0 55]]
+Epoch [16/60] | Loss 0.0351 | TrainAcc 98.89% | ValAcc 87.50% | LR 5.00e-05
+Epoch [17/60] | Loss 0.0748 | TrainAcc 96.88% | ValAcc 89.06% | LR 5.00e-05
+Epoch [18/60] | Loss 0.0221 | TrainAcc 99.31% | ValAcc 89.06% | LR 5.00e-05
+Epoch [19/60] | Loss 0.0264 | TrainAcc 99.26% | ValAcc 85.94% | LR 5.00e-05
+Epoch [20/60] | Loss 0.0261 | TrainAcc 99.10% | ValAcc 85.94% | LR 5.00e-05
+Confusion Matrix (Epoch 20):
+[[ 0  1  3]
+ [ 0  0  5]
+ [ 0  0 55]]
+Epoch [21/60] | Loss 0.0184 | TrainAcc 99.21% | ValAcc 85.94% | LR 2.50e-05
+Epoch [22/60] | Loss 0.0167 | TrainAcc 99.00% | ValAcc 85.94% | LR 2.50e-05
+Epoch [23/60] | Loss 0.0170 | TrainAcc 99.10% | ValAcc 85.94% | LR 2.50e-05
+Epoch [24/60] | Loss 0.0153 | TrainAcc 99.26% | ValAcc 87.50% | LR 2.50e-05
+Epoch [25/60] | Loss 0.0165 | TrainAcc 99.00% | ValAcc 85.94% | LR 2.50e-05
+Confusion Matrix (Epoch 25):
+[[ 0  0  4]
+ [ 0  0  5]
+ [ 0  0 55]]
+Epoch [26/60] | Loss 0.0174 | TrainAcc 99.26% | ValAcc 89.06% | LR 2.50e-05
+Epoch [27/60] | Loss 0.0160 | TrainAcc 99.26% | ValAcc 85.94% | LR 2.50e-05
+Epoch [28/60] | Loss 0.0157 | TrainAcc 99.21% | ValAcc 85.94% | LR 2.50e-05
+Epoch [29/60] | Loss 0.0205 | TrainAcc 99.10% | ValAcc 87.50% | LR 2.50e-05
+Epoch [30/60] | Loss 0.0206 | TrainAcc 99.10% | ValAcc 85.94% | LR 2.50e-05
+Confusion Matrix (Epoch 30):
+[[ 0  0  4]
+ [ 0  0  5]
+ [ 0  0 55]]
+Epoch [31/60] | Loss 0.0158 | TrainAcc 99.26% | ValAcc 89.06% | LR 2.50e-05
+Epoch [32/60] | Loss 0.0159 | TrainAcc 99.21% | ValAcc 87.50% | LR 1.25e-05
+Epoch [33/60] | Loss 0.0145 | TrainAcc 99.31% | ValAcc 85.94% | LR 1.25e-05
+Epoch [34/60] | Loss 0.0147 | TrainAcc 99.21% | ValAcc 85.94% | LR 1.25e-05
+Epoch [35/60] | Loss 0.0145 | TrainAcc 99.42% | ValAcc 85.94% | LR 1.25e-05
+Confusion Matrix (Epoch 35):
+[[ 0  0  4]
+ [ 0  0  5]
+ [ 0  0 55]]
+Epoch [36/60] | Loss 0.0158 | TrainAcc 98.94% | ValAcc 85.94% | LR 1.25e-05
+Epoch [37/60] | Loss 0.0142 | TrainAcc 99.15% | ValAcc 85.94% | LR 1.25e-05
+Epoch [38/60] | Loss 0.0137 | TrainAcc 99.42% | ValAcc 90.62% | LR 1.25e-05
+Epoch [39/60] | Loss 0.0148 | TrainAcc 98.94% | ValAcc 85.94% | LR 1.25e-05
+Epoch [40/60] | Loss 0.0124 | TrainAcc 99.42% | ValAcc 85.94% | LR 1.25e-05
+Confusion Matrix (Epoch 40):
+[[ 0  0  4]
+ [ 0  0  5]
+ [ 0  0 55]]
+Epoch [41/60] | Loss 0.0152 | TrainAcc 99.00% | ValAcc 85.94% | LR 1.25e-05
+Epoch [42/60] | Loss 0.0139 | TrainAcc 99.21% | ValAcc 85.94% | LR 1.25e-05
+Epoch [43/60] | Loss 0.0139 | TrainAcc 99.21% | ValAcc 87.50% | LR 6.25e-06
+Epoch [44/60] | Loss 0.0137 | TrainAcc 99.26% | ValAcc 85.94% | LR 6.25e-06
+Epoch [45/60] | Loss 0.0138 | TrainAcc 99.21% | ValAcc 87.50% | LR 6.25e-06
+Confusion Matrix (Epoch 45):
+[[ 0  0  4]
+ [ 0  1  4]
+ [ 0  0 55]]
+Epoch [46/60] | Loss 0.0140 | TrainAcc 99.21% | ValAcc 87.50% | LR 6.25e-06
+Epoch [47/60] | Loss 0.0138 | TrainAcc 99.15% | ValAcc 87.50% | LR 6.25e-06
+Epoch [48/60] | Loss 0.0140 | TrainAcc 99.15% | ValAcc 85.94% | LR 6.25e-06
+Epoch [49/60] | Loss 0.0139 | TrainAcc 99.21% | ValAcc 85.94% | LR 6.25e-06
+Epoch [50/60] | Loss 0.0123 | TrainAcc 99.21% | ValAcc 85.94% | LR 6.25e-06
+Confusion Matrix (Epoch 50):
+[[ 0  0  4]
+ [ 0  0  5]
+ [ 0  0 55]]
+Epoch [51/60] | Loss 0.0134 | TrainAcc 99.26% | ValAcc 85.94% | LR 6.25e-06
+Epoch [52/60] | Loss 0.0149 | TrainAcc 99.10% | ValAcc 85.94% | LR 6.25e-06
+Epoch [53/60] | Loss 0.0129 | TrainAcc 99.15% | ValAcc 85.94% | LR 6.25e-06
+Epoch [54/60] | Loss 0.0125 | TrainAcc 99.42% | ValAcc 85.94% | LR 3.13e-06
+Epoch [55/60] | Loss 0.0123 | TrainAcc 99.52% | ValAcc 87.50% | LR 3.13e-06
+Confusion Matrix (Epoch 55):
+[[ 0  0  4]
+ [ 0  1  4]
+ [ 0  0 55]]
+Epoch [56/60] | Loss 0.0128 | TrainAcc 99.26% | ValAcc 85.94% | LR 3.13e-06
+Epoch [57/60] | Loss 0.0127 | TrainAcc 99.10% | ValAcc 85.94% | LR 3.13e-06
+Epoch [58/60] | Loss 0.0128 | TrainAcc 99.21% | ValAcc 85.94% | LR 3.13e-06
+Epoch [59/60] | Loss 0.0142 | TrainAcc 99.05% | ValAcc 85.94% | LR 3.13e-06
+Epoch [60/60] | Loss 0.0129 | TrainAcc 99.15% | ValAcc 85.94% | LR 3.13e-06
+Confusion Matrix (Epoch 60):
+[[ 0  0  4]
+ [ 0  0  5]
+ [ 0  0 55]]
