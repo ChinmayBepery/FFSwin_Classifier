@@ -18,7 +18,7 @@ from dataset import SimpleOCTDataset
 # ============================================================
 DEPTH_PATCH = 4                     # 1, 2, or 4
 CHECKPOINT = "ablation_checkpoints\classifier_best_depth4.pth"
-TEST_DIR = r"D:\OCTData\BanglaOCT2025_Dataset\ANONYMIZED_Denoise_Split_Train_Valid_Test_Data\testdata"
+TEST_DIR = r"D:\OCTData\BanglaOCT2025_Dataset\ANONYMIZED_Denoise_Split_Train_Valid_Test_Data\testdata" #Need to download the dataset and set the local folder link
 SAVE_DIR = r"./eval_results_depth4"
 BATCH_SIZE = 4
 NUM_WORKERS = 4
